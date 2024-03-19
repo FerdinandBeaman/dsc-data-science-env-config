@@ -1,4 +1,4 @@
-name: learn-env
+name: tf-env
 channels:
   - conda-forge
   - defaults
